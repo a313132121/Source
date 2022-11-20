@@ -3,7 +3,3 @@ proxies:
   - {"name":"🇨🇳 联通一区(北京)","type":"vmess","server":"39.103.165.178","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
   - {"name":"🇨🇳 联通二区(北京)","type":"vmess","server":"49.232.167.71","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
   - {"name":"🇨🇳 联通四区(上海)","type":"vmess","server":"49.234.84.132","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
-  - {"name":"🇨🇳 电信一区(广东)","type":"vmess","server":"42.193.191.50","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
-  - {"name":"🇨🇳 电信二区(四川)","type":"vmess","server":"139.186.153.84","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
-  - {"name":"🇨🇳 电信三区(江苏)","type":"vmess","server":"119.45.28.201","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
-  - {"name":"🇨🇳 教育网专区(安徽)","type":"vmess","server":"112.132.215.13","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
