@@ -1,5 +1,3 @@
 proxies:
   - {"name":"🇨🇳 联通一区(山东)","type":"vmess","server":"47.104.237.32","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
   - {"name":"🇨🇳 联通一区(北京)","type":"vmess","server":"39.103.165.178","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
-  - {"name":"🇨🇳 联通二区(北京)","type":"vmess","server":"49.232.167.71","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
-  - {"name":"🇨🇳 联通四区(上海)","type":"vmess","server":"49.234.84.132","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
