@@ -1,12 +1,6 @@
 proxies:
   - {"name":"🇨🇳 山东","type":"vmess","server":"47.104.237.32","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
   - {"name":"🇨🇳 北京","type":"vmess","server":"39.103.165.178","port":"50002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false}
-  - {"name":"🇺🇸 纽约","server":"trny.ballistics.top","port":443,"type":"trojan","password":"fcc3eaad-60be-42e1-86be-7b0103c13493","sni":"trny.ballistics.top","skip-cert-verify":true}
-  - {"name":"🇫🇷 法国","server":"trfg.ballistics.top","port":443,"type":"trojan","password":"fcc3eaad-60be-42e1-86be-7b0103c13493","sni":"trfg.ballistics.top","skip-cert-verify":true}
-  - {"name":"🇦🇺 悉尼","server":"trxn.ballistics.top","port":443,"type":"trojan","password":"fcc3eaad-60be-42e1-86be-7b0103c13493","sni":"trxn.ballistics.top","skip-cert-verify":true}
-  - {"name":"🇬🇧 伦敦","server":"trld.ballistics.top","port":443,"type":"trojan","password":"fcc3eaad-60be-42e1-86be-7b0103c13493","sni":"trld.ballistics.top","skip-cert-verify":true}
-  - {"name":"🇳🇱 荷兰","server":"trhl.ballistics.top","port":443,"type":"trojan","password":"fcc3eaad-60be-42e1-86be-7b0103c13493","sni":"trhl.ballistics.top","skip-cert-verify":true}
-  - {"name":"🇸🇬 新加坡","server":"trxjp.ballistics.top","port":443,"type":"trojan","password":"fcc3eaad-60be-42e1-86be-7b0103c13493","sni":"trxjp.ballistics.top","skip-cert-verify":true}
   - {"name":"🇸🇬 SG-GC","server":"cf-lt.sharecentre.online","port":443,"cipher":"chacha20-poly1305","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","tfo":true,"udp":true,"type":"vmess","alterId":0,"network":"ws","tls":true,"ws-opts":{"path":"/shirker","headers":{"Host":"sg-gcore.sharecentre.online"}}}
   - {"name":"🇺🇸 US-VM","server":"cf-lt.sharecentre.online","port":443,"cipher":"chacha20-poly1305","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","tfo":true,"udp":true,"type":"vmess","alterId":0,"network":"ws","tls":true,"ws-opts":{"path":"/shirker","headers":{"Host":"buyvm-lv.sharecentre.online"}}}
   - {"name":"🇺🇸 US-DP","server":"cf-lt.sharecentre.online","port":443,"cipher":"chacha20-poly1305","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","tfo":true,"udp":true,"type":"vmess","alterId":0,"network":"ws","tls":true,"ws-opts":{"path":"/shirker","headers":{"Host":"us-dp2.sharecentre.online"}}}
