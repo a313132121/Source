@@ -1,3 +1,5 @@
-shadowsocks=cdn.alibaba-kunlun.com:14106,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 China 01
-shadowsocks=cdn.alibaba-kunlun.com:14103,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 China 02
-shadowsocks=cdn.alibaba-kunlun.com:14105,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 China 03
+shadowsocks=cdn.alibaba-kunlun.com:14102,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 GuangZhou 01
+shadowsocks=cdn.alibaba-kunlun.com:14103,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 GuangZhou 02
+shadowsocks=cdn.alibaba-kunlun.com:14104,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 GuangZhou 03
+shadowsocks=cdn.alibaba-kunlun.com:14105,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 GuangZhou 04
+shadowsocks=cdn.alibaba-kunlun.com:14106,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 GuangZhou 05
