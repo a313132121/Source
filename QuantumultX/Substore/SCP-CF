@@ -1,5 +1,6 @@
-shadowsocks=cdn.alibaba-kunlun.com:14102,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 GuangZhou 01
-shadowsocks=cdn.alibaba-kunlun.com:14103,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 GuangZhou 02
-shadowsocks=cdn.alibaba-kunlun.com:14104,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 GuangZhou 03
-shadowsocks=cdn.alibaba-kunlun.com:14105,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 GuangZhou 04
-shadowsocks=cdn.alibaba-kunlun.com:14106,method=aes-128-gcm,password=e1af570e-b7e2-402d-a60e-a363ffdfee7e,fast-open=true,udp-relay=true,tag=🇨🇳 GuangZhou 05
+shadowsocks=14.29.124.168:25266,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=🇨🇳_CN_中国_1
+shadowsocks=14.29.124.168:25247,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=🇨🇳_CN_中国_2
+shadowsocks=14.29.124.168:25294,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=🇨🇳_CN_中国_3
+shadowsocks=14.29.124.168:25279,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=🇨🇳_CN_中国_4
+shadowsocks=14.29.124.168:25220,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=🇨🇳_CN_中国_5
+shadowsocks=14.29.124.168:25261,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=🇨🇳_CN_中国_6
